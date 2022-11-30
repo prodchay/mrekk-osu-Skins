@@ -3,7 +3,8 @@ mrekk's osu! skins. List updated and maintained by DevenRam. DM me on discord if
 
 # [【Mrekk 3.0】by Flowfy](https://drive.google.com/drive/folders/1H_KeIKxLPdFMkkehJIU4C_43kth-U9wk)
 All variants included in the google drive link above.
-![](https://i.imgur.com/FoMbCzw.png)
+![](![screenshot255](https://user-images.githubusercontent.com/106108647/204843119-e294545e-1365-499d-bff6-e721780f8f3e.jpg)
+)
 
 # [Rafis HDDT](https://drive.google.com/uc?export=download&id=1hHzgI3DfKLLg6VxKYDPT3kYqXERDM96o)
 ![](https://i.imgur.com/YULitvx.png)
@@ -12,7 +13,8 @@ All variants included in the google drive link above.
 ![](https://osu.ppy.sh/ss/16816850/4d8c)
 
 # [Monko Edit](https://rektygon.s-ul.eu/r36TbuaU)
-![](https://i.imgur.com/8tXwDP0.jpg)
+![](https://i.imgur![Uploading screenshot255.jpg…]()
+.com/8tXwDP0.jpg)
 
 # [Ponytail HDDT](https://gerwi2.s-ul.eu/UpwA6ZsP)
 ![](https://i.imgur.com/o9VRoFm.png)
